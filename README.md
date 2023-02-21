@@ -1,4 +1,4 @@
-# Random Item Generator
+# "Random" Item Generator
 
 chest.js generates random items from lists of type and rarity. If Epic item is generated it calls OpenAi to generate a fantasy name for the item. The other generated items are named just after rarity and item type. This is planned to run in the back-end.
 
