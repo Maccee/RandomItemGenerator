@@ -1,0 +1,22 @@
+[
+    {
+        "rarity": "Epic",
+        "range": [80, 100],
+        "weight": 5
+    },
+    {   
+        "rarity": "Rare",
+        "range": [50, 79],
+        "weight": 12
+    },
+    {
+        "rarity": "Uncommon",
+        "range": [25,49],
+        "weight": 25
+    },
+    {
+        "rarity": "Common",
+        "range": [10, 24],
+        "weight": 58
+    }
+]
